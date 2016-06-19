@@ -1,0 +1,10 @@
+Assets/NGUI/
+Assets/NGUI Upgrade Tools/
+Assets/NGUI Upgrade Tools.meta
+Assets/NGUI.meta
+Temp/
+Library/
+ProjectSettings/
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
+.DS_Store
